@@ -1,7 +1,7 @@
 
 # 1. GUI
 
-![image info](.\Apicoo\img\gui.png)
+![image info](./Apicoo/img/gui.png)
 
 
 
