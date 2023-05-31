@@ -1,0 +1,11 @@
+{
+    "id": {
+        "value": "86"
+    },
+    "baudrate": {
+        "value": "115200"
+    },
+    "port": {
+        "value": "COM5"
+    }
+}
